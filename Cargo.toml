@@ -1,0 +1,11 @@
+[package]
+name = "playground"
+version = "0.1.0"
+authors = ["justnat3 <vemhira@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nom = "6.1.2"
+logos = "0.11.0"
